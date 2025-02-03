@@ -8,4 +8,4 @@
 - Minikube starten `minikube start`
 - In den Projektordner navigieren
 - Beide Manifestdateien hinzufügen `kubectl apply -f deployment.yaml` und `kubectl apply -f service.yaml`
-- Webseite aufrufen `minikube service my-simple-website`, daraufhin öffnet sich im Standartbrowser die Webseite
+- Webseite aufrufen `minikube service my-simple-website`, daraufhin öffnet sich im Standardbrowser die Webseite
